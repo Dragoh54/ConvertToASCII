@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToASCII", "ImageToASCII\ImageToASCII.csproj", "{217724E7-AC1E-4F4A-90F1-0B8245B4BE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217724E7-AC1E-4F4A-90F1-0B8245B4BE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217724E7-AC1E-4F4A-90F1-0B8245B4BE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217724E7-AC1E-4F4A-90F1-0B8245B4BE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217724E7-AC1E-4F4A-90F1-0B8245B4BE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

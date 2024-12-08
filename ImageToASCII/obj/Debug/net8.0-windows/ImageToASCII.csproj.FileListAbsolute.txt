@@ -1,0 +1,14 @@
+D:\Projects\ImageToASCII\ImageToASCII\bin\Debug\net8.0-windows\ImageToASCII.exe
+D:\Projects\ImageToASCII\ImageToASCII\bin\Debug\net8.0-windows\ImageToASCII.deps.json
+D:\Projects\ImageToASCII\ImageToASCII\bin\Debug\net8.0-windows\ImageToASCII.runtimeconfig.json
+D:\Projects\ImageToASCII\ImageToASCII\bin\Debug\net8.0-windows\ImageToASCII.dll
+D:\Projects\ImageToASCII\ImageToASCII\bin\Debug\net8.0-windows\ImageToASCII.pdb
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.AssemblyInfoInputs.cache
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.AssemblyInfo.cs
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.csproj.CoreCompileInputs.cache
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.dll
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\refint\ImageToASCII.dll
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.pdb
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ImageToASCII.genruntimeconfig.cache
+D:\Projects\ImageToASCII\ImageToASCII\obj\Debug\net8.0-windows\ref\ImageToASCII.dll
